@@ -1,0 +1,135 @@
+﻿  Source.cpp
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(66): warning C4005: STATUS_WAIT_0: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2496): note: см. предыдущее определение "STATUS_WAIT_0"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(221): warning C4005: STATUS_ABANDONED_WAIT_0: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2497): note: см. предыдущее определение "STATUS_ABANDONED_WAIT_0"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(244): warning C4005: STATUS_USER_APC: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2498): note: см. предыдущее определение "STATUS_USER_APC"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(280): warning C4005: STATUS_TIMEOUT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2499): note: см. предыдущее определение "STATUS_TIMEOUT"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(289): warning C4005: STATUS_PENDING: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2500): note: см. предыдущее определение "STATUS_PENDING"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(736): warning C4005: DBG_EXCEPTION_HANDLED: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2501): note: см. предыдущее определение "DBG_EXCEPTION_HANDLED"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(745): warning C4005: DBG_CONTINUE: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2502): note: см. предыдущее определение "DBG_CONTINUE"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(820): warning C4005: STATUS_SEGMENT_NOTIFICATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2503): note: см. предыдущее определение "STATUS_SEGMENT_NOTIFICATION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(983): warning C4005: STATUS_FATAL_APP_EXIT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2504): note: см. предыдущее определение "STATUS_FATAL_APP_EXIT"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1303): warning C4005: DBG_REPLY_LATER: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2505): note: см. предыдущее определение "DBG_REPLY_LATER"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1321): warning C4005: DBG_TERMINATE_THREAD: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2506): note: см. предыдущее определение "DBG_TERMINATE_THREAD"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1330): warning C4005: DBG_TERMINATE_PROCESS: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2507): note: см. предыдущее определение "DBG_TERMINATE_PROCESS"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1339): warning C4005: DBG_CONTROL_C: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2508): note: см. предыдущее определение "DBG_CONTROL_C"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1348): warning C4005: DBG_PRINTEXCEPTION_C: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2509): note: см. предыдущее определение "DBG_PRINTEXCEPTION_C"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1357): warning C4005: DBG_RIPEXCEPTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2510): note: см. предыдущее определение "DBG_RIPEXCEPTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1366): warning C4005: DBG_CONTROL_BREAK: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2511): note: см. предыдущее определение "DBG_CONTROL_BREAK"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1375): warning C4005: DBG_COMMAND_EXCEPTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2512): note: см. предыдущее определение "DBG_COMMAND_EXCEPTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1384): warning C4005: DBG_PRINTEXCEPTION_WIDE_C: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2513): note: см. предыдущее определение "DBG_PRINTEXCEPTION_WIDE_C"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1416): warning C4005: STATUS_GUARD_PAGE_VIOLATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2514): note: см. предыдущее определение "STATUS_GUARD_PAGE_VIOLATION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1427): warning C4005: STATUS_DATATYPE_MISALIGNMENT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2515): note: см. предыдущее определение "STATUS_DATATYPE_MISALIGNMENT"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1438): warning C4005: STATUS_BREAKPOINT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2516): note: см. предыдущее определение "STATUS_BREAKPOINT"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1449): warning C4005: STATUS_SINGLE_STEP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2517): note: см. предыдущее определение "STATUS_SINGLE_STEP"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1752): warning C4005: STATUS_LONGJUMP: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2518): note: см. предыдущее определение "STATUS_LONGJUMP"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1779): warning C4005: STATUS_UNWIND_CONSOLIDATE: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2519): note: см. предыдущее определение "STATUS_UNWIND_CONSOLIDATE"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(1874): warning C4005: DBG_EXCEPTION_NOT_HANDLED: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2520): note: см. предыдущее определение "DBG_EXCEPTION_NOT_HANDLED"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2020): warning C4005: STATUS_ACCESS_VIOLATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2521): note: см. предыдущее определение "STATUS_ACCESS_VIOLATION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2029): warning C4005: STATUS_IN_PAGE_ERROR: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2522): note: см. предыдущее определение "STATUS_IN_PAGE_ERROR"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2047): warning C4005: STATUS_INVALID_HANDLE: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2523): note: см. предыдущее определение "STATUS_INVALID_HANDLE"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2092): warning C4005: STATUS_INVALID_PARAMETER: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2524): note: см. предыдущее определение "STATUS_INVALID_PARAMETER"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2192): warning C4005: STATUS_NO_MEMORY: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2525): note: см. предыдущее определение "STATUS_NO_MEMORY"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2249): warning C4005: STATUS_ILLEGAL_INSTRUCTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2526): note: см. предыдущее определение "STATUS_ILLEGAL_INSTRUCTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2330): warning C4005: STATUS_NONCONTINUABLE_EXCEPTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2527): note: см. предыдущее определение "STATUS_NONCONTINUABLE_EXCEPTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(2339): warning C4005: STATUS_INVALID_DISPOSITION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2528): note: см. предыдущее определение "STATUS_INVALID_DISPOSITION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3272): warning C4005: STATUS_ARRAY_BOUNDS_EXCEEDED: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2529): note: см. предыдущее определение "STATUS_ARRAY_BOUNDS_EXCEEDED"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3282): warning C4005: STATUS_FLOAT_DENORMAL_OPERAND: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2530): note: см. предыдущее определение "STATUS_FLOAT_DENORMAL_OPERAND"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3292): warning C4005: STATUS_FLOAT_DIVIDE_BY_ZERO: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2531): note: см. предыдущее определение "STATUS_FLOAT_DIVIDE_BY_ZERO"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3302): warning C4005: STATUS_FLOAT_INEXACT_RESULT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2532): note: см. предыдущее определение "STATUS_FLOAT_INEXACT_RESULT"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3312): warning C4005: STATUS_FLOAT_INVALID_OPERATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2533): note: см. предыдущее определение "STATUS_FLOAT_INVALID_OPERATION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3322): warning C4005: STATUS_FLOAT_OVERFLOW: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2534): note: см. предыдущее определение "STATUS_FLOAT_OVERFLOW"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3332): warning C4005: STATUS_FLOAT_STACK_CHECK: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2535): note: см. предыдущее определение "STATUS_FLOAT_STACK_CHECK"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3342): warning C4005: STATUS_FLOAT_UNDERFLOW: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2536): note: см. предыдущее определение "STATUS_FLOAT_UNDERFLOW"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3352): warning C4005: STATUS_INTEGER_DIVIDE_BY_ZERO: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2537): note: см. предыдущее определение "STATUS_INTEGER_DIVIDE_BY_ZERO"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3362): warning C4005: STATUS_INTEGER_OVERFLOW: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2538): note: см. предыдущее определение "STATUS_INTEGER_OVERFLOW"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(3372): warning C4005: STATUS_PRIVILEGED_INSTRUCTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2539): note: см. предыдущее определение "STATUS_PRIVILEGED_INSTRUCTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(4318): warning C4005: STATUS_STACK_OVERFLOW: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2540): note: см. предыдущее определение "STATUS_STACK_OVERFLOW"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(4835): warning C4005: STATUS_DLL_NOT_FOUND: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2541): note: см. предыдущее определение "STATUS_DLL_NOT_FOUND"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(4864): warning C4005: STATUS_ORDINAL_NOT_FOUND: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2542): note: см. предыдущее определение "STATUS_ORDINAL_NOT_FOUND"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(4874): warning C4005: STATUS_ENTRYPOINT_NOT_FOUND: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2543): note: см. предыдущее определение "STATUS_ENTRYPOINT_NOT_FOUND"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(4884): warning C4005: STATUS_CONTROL_C_EXIT: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2544): note: см. предыдущее определение "STATUS_CONTROL_C_EXIT"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(4962): warning C4005: STATUS_DLL_INIT_FAILED: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2545): note: см. предыдущее определение "STATUS_DLL_INIT_FAILED"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(7508): warning C4005: STATUS_FLOAT_MULTIPLE_FAULTS: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2546): note: см. предыдущее определение "STATUS_FLOAT_MULTIPLE_FAULTS"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(7518): warning C4005: STATUS_FLOAT_MULTIPLE_TRAPS: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2547): note: см. предыдущее определение "STATUS_FLOAT_MULTIPLE_TRAPS"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(7650): warning C4005: STATUS_REG_NAT_CONSUMPTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2548): note: см. предыдущее определение "STATUS_REG_NAT_CONSUMPTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(8633): warning C4005: STATUS_HEAP_CORRUPTION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2549): note: см. предыдущее определение "STATUS_HEAP_CORRUPTION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(8861): warning C4005: STATUS_STACK_BUFFER_OVERRUN: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2550): note: см. предыдущее определение "STATUS_STACK_BUFFER_OVERRUN"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(8988): warning C4005: STATUS_INVALID_CRUNTIME_PARAMETER: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2551): note: см. предыдущее определение "STATUS_INVALID_CRUNTIME_PARAMETER"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(9051): warning C4005: STATUS_ASSERTION_FAILURE: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2552): note: см. предыдущее определение "STATUS_ASSERTION_FAILURE"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(9969): warning C4005: STATUS_ENCLAVE_VIOLATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2553): note: см. предыдущее определение "STATUS_ENCLAVE_VIOLATION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(10369): warning C4005: STATUS_INTERRUPTED: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2554): note: см. предыдущее определение "STATUS_INTERRUPTED"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(10378): warning C4005: STATUS_THREAD_NOT_RUNNING: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2555): note: см. предыдущее определение "STATUS_THREAD_NOT_RUNNING"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(10672): warning C4005: STATUS_ALREADY_REGISTERED: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2556): note: см. предыдущее определение "STATUS_ALREADY_REGISTERED"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(14205): warning C4005: STATUS_SXS_EARLY_DEACTIVATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2558): note: см. предыдущее определение "STATUS_SXS_EARLY_DEACTIVATION"
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\ntstatus.h(14214): warning C4005: STATUS_SXS_INVALID_DEACTIVATION: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\winnt.h(2559): note: см. предыдущее определение "STATUS_SXS_INVALID_DEACTIVATION"
+c:\users\elvin\source\repos\project1\project1\source.cpp(687): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\elvin\source\repos\project1\project1\source.cpp(785): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  0 of 127 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project1.vcxproj -> C:\Users\Elvin\source\repos\Project1\Release\Project1.exe
